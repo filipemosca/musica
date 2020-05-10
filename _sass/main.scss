@@ -51,7 +51,6 @@ article {
   > ol li {
     padding-bottom: 0.8em;
   }
-  font-size: 1.20rem;
   a {
     word-break: break-word;
     text-decoration: underline;
@@ -66,7 +65,7 @@ article {
 }
 body {
   margin: 0 0 0 0;
-  font: 1.2em Helvetica, Arial, sans-serif;
+  font: 1.15em Helvetica, Arial, sans-serif;
   // font-family: Helvetica, Arial, sans-serif;
   background-color: var(--bg-color);
   color: var(--font-color);
@@ -918,6 +917,9 @@ a.footnote:after {
     margin-right: 0;
     margin-left: 0;
     }
+  }
+  .abertura {
+    display: flex;
   }
   img {
     width: inherit;
