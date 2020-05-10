@@ -1,7 +1,7 @@
 ---
 title: 'Aprendendo piano sozinho: o começo de uma jornada'
 category: musica
-tags: [piano, DIY, diario, metas]
+tags: [Piano, Diário]
 ---
 
 Há muito tempo que quero aprender a tocar piano. Apesar de já ter conseguido comprar um piano digital, ainda não mergulhei de cabeça na dedicação de aprender a tocar o instrumento. Mas isso vai mudar a partir de agora. Durante essa quarentena resolvi finalmente adotar uma rotina de práticas e sair da zona de conforto.

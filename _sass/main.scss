@@ -681,11 +681,12 @@ button {
   border-radius: 5px;
   margin-right: 5px;
   color: var(--font-color);
+  line-height: 1.5;
 }
 
-.MBE {background-color: rgb(250, 201, 201);}
-.Notícias {background-color: rgb(248, 246, 147);}
-.Vivências {background-color: rgb(191, 241, 194);}
+.Piano {background-color: rgb(250, 201, 201);}
+.Perforomance {background-color: rgb(248, 246, 147);}
+.Diário {background-color: rgb(191, 241, 194);}
 .COVID-19 {background-color: rgb(235, 232, 255);}
 
 .archive-list {
@@ -726,6 +727,7 @@ button {
   padding-bottom: 0;
   margin-right: 10px;
   border-radius: 4px;
+  line-height: 1.5rem;
 }
 .pseudobotao2 {
   font-size: 16px;

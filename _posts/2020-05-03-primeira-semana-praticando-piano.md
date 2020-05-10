@@ -1,7 +1,7 @@
 ---
 title: O que aprendi na primeira semana praticando piano
 category: musica
-tags: [piano, acordes, intervalos, quarentena]
+tags: [Piano, Diário]
 ---
 
 Acabei de completar a primeira semana de prática por conta própria. Sinto que consegui aprender bastante coisa nesses poucos dias e já consigo notar uma evolução. Aliás, apenas nessa semana sinto que já evoluí mais do que o ano passado inteiro. Como expliquei na postagem anterior -- [Aprendendo piano sozinho](/2020/musica/aprendendo-piano-sozinho) --, eu não estava seguindo nenhuma metodologia e isso era péssimo.
