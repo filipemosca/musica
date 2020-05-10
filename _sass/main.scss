@@ -51,7 +51,7 @@ article {
   > ol li {
     padding-bottom: 0.8em;
   }
-  font-size: 1.2em;
+  font-size: 1.20rem;
   a {
     word-break: break-word;
     text-decoration: underline;
@@ -918,9 +918,6 @@ a.footnote:after {
     margin-right: 0;
     margin-left: 0;
     }
-  }
-  .abertura {
-    display: flex;
   }
   img {
     width: inherit;
