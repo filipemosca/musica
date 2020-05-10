@@ -18,22 +18,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MosquildoMED
+title: Medicina - Mosquildo
 email: filipemosca@disroot.org
 description: >- # this means to ignore newlines until "baseurl:"
   Um blog sobre medicina. Escrevo sobre medicina baseada em evidências,
   educação médica, casos clínicos e sobre minha vivência com a área.
-baseurl: "/med" # the subpath of your site, e.g. /blog
+baseurl: "/medicina" # the subpath of your site, e.g. /blog
 url: "https://mosquildo.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moscafilipe
 github_username:  filipemosca
 
 # Build settings
-theme: minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
-permalink: /:year/:title
+defaults:
+#defaults para os posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Filipe Mosca"
+      permalink: "/:year/:title"
+#defaults para todo o resto
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

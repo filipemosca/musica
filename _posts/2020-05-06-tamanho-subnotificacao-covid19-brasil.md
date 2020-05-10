@@ -1,8 +1,6 @@
 ---
 title: Qual o tamanho da subnotificação por COVID-19 no Brasil?
-category: medicina
-tags: [covid-19, epidemiologia, pandemia]
-layout: post
+tags: [COVID-19]
 imgpath: /assets/2020/subnotificacao/
 ---
 

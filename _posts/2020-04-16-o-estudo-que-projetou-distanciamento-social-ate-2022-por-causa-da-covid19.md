@@ -1,7 +1,6 @@
 ---
 title: O estudo que projetou distanciamento social até 2022 por causa da COVID-19
-category: medicina
-tags: [covid-19, coronavirus, epidemiologia, pandemia]
+tags: [COVID-19, MBE]
 ---
 
 Essa semana, dia 14 de Abril, foi publicado um [estudo na revista *Science*](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)[^Kissler2020] projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como "alarmista demais". 
